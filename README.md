@@ -26,7 +26,7 @@ A evasão escolar é um problema grave que afeta a educação brasileira. Com o 
 
 Este repositório contém o código-fonte do projeto, incluindo:
 
-* **Arquivos de dados**: Utilizados na análise.
+* **Arquivos de dados**: [   https://www.kaggle.com/datasets/joaoassaoka/taxa-de-abandono-escolar-por-renda-mdia-brasil  ].
 * **Código Python**: Para tratamento e análise dos dados.
 * **Relatório**: Gerado pelo projeto em formato PDF.
 
